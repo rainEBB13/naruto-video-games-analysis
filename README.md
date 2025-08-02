@@ -156,4 +156,15 @@ This project demonstrates:
 
 This project is for educational purposes. Respect the Naruto Fandom Wiki's terms of service and robots.txt when using this scraper.
 
+## Legal Disclaimer
+
+This scraper is for **educational and research purposes only**. Users must:
+
+- Respect Fandom's robots.txt and terms of service
+- Use reasonable request delays to avoid overloading servers
+- Not redistribute the scraped content commercially
+- Understand that game titles and data belong to their respective copyright holders
+- Use scraped data in compliance with fair use guidelines
+
+The scraper author is not responsible for misuse of this tool or violations of website terms of service.
 PS Will add other platforms, such as online games and beyond!
