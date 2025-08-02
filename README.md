@@ -155,3 +155,5 @@ This project demonstrates:
 ## License
 
 This project is for educational purposes. Respect the Naruto Fandom Wiki's terms of service and robots.txt when using this scraper.
+
+PS Will add other platforms, such as online games and beyond!
